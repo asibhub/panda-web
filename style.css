@@ -1,0 +1,8 @@
+.main-bg{
+    background-color: #fceae8;
+}
+.all-bt-color{
+    background-image: linear-gradient(to right,#ff2b7e, #d215b6);
+    color: white;
+    border-radius: 5px;
+}
